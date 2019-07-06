@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1542473960 source:e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\main.cpp
+	<iostream>
+	<BankApplication.h>
+
+1542473958 source:e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\src\bankapplication.cpp
+	"BankApplication.h"
+
+1542473959 e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\include\bankapplication.h
+	<bits/stdc++.h>
+	"Client.h"
+
+1542473957 source:e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\src\bankaccount.cpp
+	"BankAccount.h"
+
+1541513419 e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\include\bankaccount.h
+	<bits/stdc++.h>
+
+1542473956 source:e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\src\client.cpp
+	"Client.h"
+
+1541257966 e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\include\client.h
+	<bits/stdc++.h>
+	<BankAccount.h>
+	<SavingBankAccount.h>
+
+1542474076 source:e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+
+1541260283 e:\uni\third semster\cs213\assignments\assignment 3\bankingsystem\include\savingbankaccount.h
+	<bits/stdc++.h>
+	"BankAccount.h"
+
+1542575429 source:c:\users\ag\desktop\alialfy\src\bankaccount.cpp
+	"BankAccount.h"
+
+1542575429 c:\users\ag\desktop\alialfy\include\bankaccount.h
+	<bits/stdc++.h>
+
+1542575152 source:c:\users\ag\desktop\alialfy\src\client.cpp
+	"Client.h"
+
+1542575746 c:\users\ag\desktop\alialfy\include\client.h
+	<bits/stdc++.h>
+	<BankAccount.h>
+	<SavingBankAccount.h>
+
+1542575429 c:\users\ag\desktop\alialfy\include\savingbankaccount.h
+	<bits/stdc++.h>
+	"BankAccount.h"
+
+1542574143 source:c:\users\ag\desktop\alialfy\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+
+1542571832 source:c:\users\ag\desktop\alialfy\main.cpp
+	<iostream>
+	<BankApplication.h>
+
+1542575429 c:\users\ag\desktop\alialfy\include\bankapplication.h
+	<bits/stdc++.h>
+	"Client.h"
+
+1542574143 source:c:\users\ag\desktop\alialfy\src\bankapplication.cpp
+	"BankApplication.h"
+
+1542571832 source:c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\main.cpp
+	<iostream>
+	<BankApplication.h>
+
+1542575429 c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\bankapplication.h
+	<bits/stdc++.h>
+	"Client.h"
+
+1542575746 c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\client.h
+	<bits/stdc++.h>
+	<BankAccount.h>
+	<SavingBankAccount.h>
+
+1542575429 c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\bankaccount.h
+	<bits/stdc++.h>
+
+1542575429 c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\savingbankaccount.h
+	<bits/stdc++.h>
+	"BankAccount.h"
+
+1542575703 source:c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\bankaccount.cpp
+	"BankAccount.h"
+
+1542575746 source:c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\bankapplication.cpp
+	"BankApplication.h"
+
+1542575152 source:c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\client.cpp
+	"Client.h"
+
+1542575728 source:c:\users\ag\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+
+1543217039 source:c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\main.cpp
+	<iostream>
+	<BankApplication.h>
+
+1543217038 c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\bankapplication.h
+	<bits/stdc++.h>
+	"Client.h"
+
+1543239982 c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\client.h
+	<bits/stdc++.h>
+	<BankAccount.h>
+	<SavingBankAccount.h>
+
+1543217038 c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\bankaccount.h
+	<bits/stdc++.h>
+
+1543217038 c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\include\savingbankaccount.h
+	<bits/stdc++.h>
+	"BankAccount.h"
+
+1543238691 source:c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\bankaccount.cpp
+	"BankAccount.h"
+
+1543217039 source:c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\bankapplication.cpp
+	"BankApplication.h"
+
+1543240683 source:c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\client.cpp
+	"Client.h"
+
+1543217039 source:c:\users\abdelrahman\desktop\fci-cs213 a3-2018 -esraa salem - group 6 -20170148 - 20170159\banking system (problem 2)\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+
